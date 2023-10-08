@@ -1,0 +1,14 @@
+2023/10/05-14:34:43.481 142ee Reusing MANIFEST /home/truechainz/.config/google-chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-14:34:43.481 142ee Recovering log #83
+2023/10/05-14:34:43.481 142ee Reusing old log /home/truechainz/.config/google-chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/000083.log 
+2023/10/05-14:34:43.481 142ee Delete type=2 #81
+2023/10/05-14:34:43.486 142f2 Level-0 table #88: started
+2023/10/05-14:34:43.487 142f2 Level-0 table #88: 897 bytes OK
+2023/10/05-14:34:43.490 142f2 Delete type=0 #83
+2023/10/05-14:34:43.490 142f2 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 921 : 1
+2023/10/05-14:34:43.490 142f2 Compacting 1@0 + 1@1 files
+2023/10/05-14:34:43.491 142f2 Generated table #89@0: 75 keys, 1704 bytes
+2023/10/05-14:34:43.491 142f2 Compacted 1@0 + 1@1 files => 1704 bytes
+2023/10/05-14:34:43.493 142f2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/05-14:34:43.494 142f2 Delete type=2 #88
+2023/10/05-14:34:43.494 14311 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 921 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)

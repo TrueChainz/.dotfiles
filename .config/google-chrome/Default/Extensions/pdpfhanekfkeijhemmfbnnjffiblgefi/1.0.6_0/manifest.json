@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "scripts/bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "32": "icons/32.png",
+         "512": "icons/512.png",
+         "64": "icons/64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_titleDefault__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "scripts/content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllcVzHUtnRlF+cs9bsEz1Zg874eqyhsLanK2eYHJglb3lQRIJQGUEf2PvOhoIBLTZMzXrzXAv25Vk7sQ3xIhhVVmK/j23cKvYnKobRtgpgBSvEMOqLeHhVwE711q/UHTDKG2Im4qRnhX81CBLPzz7LhI/bmGQQ42NDH3IBoaiMJLofXp0rkeu2ja+aIsWxzN+uc9zs8lW1HtjDjQvscVvTywCLxLDX/MED1yK5pgr16GINLvIMn2E85r2U1w2ywdlvwJqWHfJriHUsY/MaL0xICxGfQ2XAcgxY1LElo0pWa1/jjozUV+UyQputl07yDayuVIxlDhcWXp+8IpkaQQyQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "*://*/*", "activeTab", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.6"
+}

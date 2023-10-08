@@ -1,0 +1,18 @@
+2023/10/05-16:45:32.163 3 Reusing MANIFEST /home/truechainz/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/10/05-16:45:32.164 3 Recovering log #12
+2023/10/05-16:45:32.164 3 Reusing old log /home/truechainz/.config/google-chrome/Default/Session Storage/000012.log 
+2023/10/05-17:53:26.191 5 Level-0 table #16: started
+2023/10/05-17:53:26.198 5 Level-0 table #16: 18296 bytes OK
+2023/10/05-17:53:26.207 5 Delete type=0 #12
+2023/10/08-13:27:31.921 5 Level-0 table #18: started
+2023/10/08-13:27:31.930 5 Level-0 table #18: 19464 bytes OK
+2023/10/08-13:27:31.933 5 Delete type=0 #15
+2023/10/08-13:27:31.933 5 Compacting 4@0 + 1@1 files
+2023/10/08-13:27:31.941 5 Generated table #19@0: 824 keys, 34278 bytes
+2023/10/08-13:27:31.941 5 Compacted 4@0 + 1@1 files => 34278 bytes
+2023/10/08-13:27:31.942 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/08-13:27:31.943 5 Delete type=2 #8
+2023/10/08-13:27:31.943 5 Delete type=2 #10
+2023/10/08-13:27:31.943 5 Delete type=2 #13
+2023/10/08-13:27:31.943 5 Delete type=2 #16
+2023/10/08-13:27:31.943 5 Delete type=2 #18

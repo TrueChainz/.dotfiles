@@ -1,0 +1,21 @@
+[2023-10-05 13:40:05.560] [info]  Running version 8.1.0
+[2023-10-05 13:40:05.579] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-10-05 13:40:05.596] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-10-05 13:40:05.649] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2023-10-05 13:40:05.864] [info]  [fix] Running database repairs
+[2023-10-05 13:40:05.896] [info]  [db] Initialized DB at /home/truechainz/.config/Insomnia/insomnia.$TYPE.db
+[2023-10-05 13:40:05.896] [info]  [db] Init responses DB
+[2023-10-05 13:40:05.896] [info]  [db] Init websocket-responses DB
+[2023-10-05 13:40:05.897] [info]  [localstorage] Initialized at /home/truechainz/.config/Insomnia/localStorage
+[2023-10-05 13:40:05.908] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+[2023-10-05 13:40:05.918] [info]  [updater] Not supported on this platform linux
+[2023-10-05 13:40:07.051] [info]  [main] App update detected 8.1.0 2023.5.8
+[2023-10-05 13:40:07.052] [info]  [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+[2023-10-05 13:40:07.056] [info]  [main] Checking for newer version than  8.1.0
+[2023-10-05 13:40:07.464] [info]  [main] Found newer version {
+  url: 'https://github.com/Kong/insomnia/releases/download/core@8.2.0/Insomnia.Core-8.2.0.zip',
+  name: '8.2.0'
+}
+[2023-10-05 13:40:07.467] [info]  Exported backup to: /home/truechainz/.config/Insomnia/backups/8.1.0
+[2023-10-05 13:41:46.994] [info]  Response not OK: 403 for https://api.insomnia.rest/auth/logout

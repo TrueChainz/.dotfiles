@@ -1,0 +1,11 @@
+{
+   "extDescription": {
+      "message": "This extension allows you to apply dark themes to the most popular websites. You can relax your eyes while working at night."
+   },
+   "extName": {
+      "message": "Dark mode themes"
+   },
+   "titleDefault": {
+      "message": "Dark Mode"
+   }
+}

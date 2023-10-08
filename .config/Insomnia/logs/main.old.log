@@ -1,0 +1,96 @@
+[2023-09-17 18:02:46.246] [info]  Running version 2023.5.8
+[2023-09-17 18:02:46.265] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-09-17 18:02:46.283] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-09-17 18:02:46.342] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2023-09-17 18:02:46.536] [info]  [fix] Running database repairs
+[2023-09-17 18:02:46.575] [info]  [db] Initialized DB at /home/truechainz/.config/Insomnia/insomnia.$TYPE.db
+[2023-09-17 18:02:46.575] [info]  [db] Init responses DB
+[2023-09-17 18:02:46.576] [info]  [db] Init websocket-responses DB
+[2023-09-17 18:02:46.577] [info]  [localstorage] Initialized at /home/truechainz/.config/Insomnia/localStorage
+[2023-09-17 18:02:46.580] [info]  Second instance listener received: /opt/Insomnia/insomnia||--allow-file-access-from-files||--secure-schemes||--bypasscsp-schemes=sentry-ipc||--cors-schemes=sentry-ipc||--fetch-schemes=sentry-ipc||--service-worker-schemes||--standard-schemes||--streaming-schemes||insomnia://oauth/github/authenticate?code=7b2c4f608e2e3598ebd5&state=3e943e0f-f9f1-4709-90fe-71f5557c3a04
+[2023-09-17 18:02:46.580] [info]  [main] Open Deep Link URL sent from second instance insomnia://oauth/github/authenticate?code=7b2c4f608e2e3598ebd5&state=3e943e0f-f9f1-4709-90fe-71f5557c3a04
+[2023-09-17 18:02:46.580] [error] [app] Failed to get instance lock
+[2023-09-17 18:02:46.585] [info]  [updater] Not supported on this platform linux
+[2023-09-17 18:04:03.464] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:04:03.790] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:04:04.396] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:04:04.618] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:04:25.169] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:04:25.405] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:12.613] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:12.916] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:13.461] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:13.838] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:20.339] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:20.699] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:21.010] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:21.314] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:21.622] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:21.926] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:06:22.335] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:07:48.898] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:07:49.286] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:07:50.216] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:07:50.470] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:12:48.994] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:12:49.316] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:17:48.984] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:17:49.371] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:20:07.662] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:20:08.187] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:22:48.986] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:22:49.364] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:27:48.982] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:27:49.348] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:32:49.021] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:32:49.387] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:37:48.986] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-17 18:37:49.424] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:45.759] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:45.961] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:46.505] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:46.735] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:50.348] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:50.626] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:50.932] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:51.135] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:55.552] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:12:55.746] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:05.097] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:05.373] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:05.710] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:05.943] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:15.377] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:15.607] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:15.823] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:16.014] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:16.589] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:16.837] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:13:17.174] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:17:45.866] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:17:46.064] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:22:45.832] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:22:46.028] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:27:45.854] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:27:46.050] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:32:45.855] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:32:46.045] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:37:45.855] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:37:46.045] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:42:46.491] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:42:46.691] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:47:46.478] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:47:46.692] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:52:46.501] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:52:46.735] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:57:46.478] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 21:57:46.673] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:02:46.484] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:02:46.706] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:07:46.500] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:07:46.729] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:12:46.473] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:12:46.695] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:17:46.481] [info]  [git-sync] Overriding validateStatus to allow 400 responses
+[2023-09-18 22:17:46.728] [info]  [git-sync] Overriding validateStatus to allow 400 responses

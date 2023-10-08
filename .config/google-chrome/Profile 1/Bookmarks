@@ -1,0 +1,240 @@
+{
+   "checksum": "51185f60dc9c1223732c73c8a7605069",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13323965457746853",
+               "date_last_used": "13326467137462988",
+               "guid": "6323ef2f-54e4-495f-8c10-7d2c419580fb",
+               "id": "6",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Base64 to SVG | Image | Base64 Decode | Base64 Converter | Base64",
+               "type": "url",
+               "url": "https://base64.guru/converter/decode/image/svg"
+            }, {
+               "date_added": "13323524120157431",
+               "date_last_used": "13326467039766735",
+               "guid": "c9d9fc5a-1a5a-437d-bffa-87513544bcb9",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SVG to Base64 | Image | Base64 Encode | Base64 Converter | Base64",
+               "type": "url",
+               "url": "https://base64.guru/converter/encode/image/svg"
+            }, {
+               "date_added": "13323448506698660",
+               "date_last_used": "13325874715642922",
+               "guid": "50255282-72f1-46e8-ad00-c75bb2e077f4",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Convert BASE64 to SVG Online",
+               "type": "url",
+               "url": "https://products.aspose.app/imaging/conversion/base64-to-svg"
+            }, {
+               "date_added": "13323448484221694",
+               "date_last_used": "13324475339613062",
+               "guid": "fc496b8b-5927-4c02-8357-da112ce41e4d",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Boxy SVG Editor",
+               "type": "url",
+               "url": "https://boxy-svg.com/"
+            }, {
+               "date_added": "13327596955178093",
+               "date_last_used": "0",
+               "guid": "93c5661d-c7be-40d2-8909-09c026f4cb3e",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ezgif.com free online animated GIF editor",
+               "type": "url",
+               "url": "https://ezgif.com/"
+            }, {
+               "date_added": "13328976930009569",
+               "date_last_used": "0",
+               "guid": "838cbdbf-7844-4ab8-81c9-8389ac70993e",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Live - Customers - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1wTEa6rdga_dPLCELhLPIiJODBnTQyD-4"
+            }, {
+               "date_added": "13331117347016063",
+               "date_last_used": "0",
+               "guid": "8d7258d9-8cf8-4dd3-be9a-7bee14d85c5d",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Register for our next Tech Talk! - adnan@taggstar.com - Taggstar Mail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=tjfinh1x27nw#inbox/FMfcgzGsnBgXMrLpsBTBJfgMNTBxTLKg"
+            }, {
+               "date_added": "13319553118906142",
+               "date_last_used": "0",
+               "guid": "9a0ff3da-e134-41db-a80d-d0cf8b0ef2f7",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.",
+               "type": "url",
+               "url": "https://github.com/f/awesome-chatgpt-prompts"
+            }, {
+               "date_added": "13333468339092284",
+               "date_last_used": "0",
+               "guid": "add4332e-2629-49b3-8b85-092d1ea77c58",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn-Vim/ch00_read_this_first.md at master · iggredible/Learn-Vim · GitHub",
+               "type": "url",
+               "url": "https://github.com/iggredible/Learn-Vim/blob/master/ch00_read_this_first.md"
+            }, {
+               "date_added": "13339091628298256",
+               "date_last_used": "0",
+               "guid": "3315a94c-4077-4960-b69d-94ab23f672b8",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Nails | BEAUTY BAY",
+               "type": "url",
+               "url": "https://www.beautybay.com/l/makeup/nails/"
+            } ],
+            "date_added": "13326885791962206",
+            "date_last_used": "0",
+            "date_modified": "13339091628298256",
+            "guid": "fbdf3d9f-7b90-4994-a75d-5307dae30408",
+            "id": "5",
+            "name": "Image Editors",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13319911919935923",
+               "date_last_used": "13326392006608449",
+               "guid": "1dd411e2-e6fb-4d33-8f8f-f20429d08bb1",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Browser Stack Defaults 2023 - Google Sheets",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1J5VExQMJGRKbVUeNgiuUJgJhphcy846waMl_Z57AnB4/edit#gid=718414690"
+            }, {
+               "date_added": "13326885874919077",
+               "date_last_used": "0",
+               "guid": "55455579-32b0-4b14-bf90-6a5555490c50",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://live.browserstack.com/dashboard#os=android&os_version=11.0&device=Samsung+Galaxy+Tab+S7&device_browser=chrome&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fwww.michaelkors.com%2Fcheckout%2FshoppingCart.jsp%3FtaggEnv%3Dqa%26taggExperienceId%3Dtreatment-v8-ml-v1%26taggFakeData%3DLPMP&speed=1"
+            } ],
+            "date_added": "13326885841693966",
+            "date_last_used": "0",
+            "date_modified": "13326885874919077",
+            "guid": "d1348981-0f27-4204-b113-43e93426e660",
+            "id": "16",
+            "name": "BSQA",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13326885910051937",
+               "date_last_used": "0",
+               "guid": "d7bbc2e4-dc6b-4354-947f-42154c9bc793",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Available Services/Endpoints for PS team - Professional Services & Support - Confluence",
+               "type": "url",
+               "url": "https://taggstar.atlassian.net/wiki/spaces/PS/pages/923336705/Available+Services+Endpoints+for+PS+team"
+            }, {
+               "date_added": "13326892612569985",
+               "date_last_used": "0",
+               "guid": "131695a8-860e-4f77-8c8b-3469ce52bafc",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Orders",
+               "type": "url",
+               "url": "http://172.31.22.28:8000/api/v4/site/siteKey/module/conversion/orders"
+            }, {
+               "date_added": "13327062426693045",
+               "date_last_used": "0",
+               "guid": "a5e4f7d8-bc7b-40fd-a32a-67e9eaffb037",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "You Might Not Need jQuery",
+               "type": "url",
+               "url": "https://youmightnotneedjquery.com/"
+            }, {
+               "date_added": "13323872447936782",
+               "date_last_used": "0",
+               "guid": "7c687ae6-8aef-4bca-9770-a78b19691496",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Material Shell - A new desktop experience",
+               "type": "url",
+               "url": "https://material-shell.com/#tiling-engine"
+            } ],
+            "date_added": "13326885923769045",
+            "date_last_used": "0",
+            "date_modified": "13327062426693045",
+            "guid": "0e489297-98bb-46cc-8a24-74a5f61ad1a2",
+            "id": "19",
+            "name": "Endpoints",
+            "type": "folder"
+         } ],
+         "date_added": "13340926256387262",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13340926256387263",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13340926256387266",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CskECqgECIiBAhKhBBJSCAISTgoGCgJibRABEDMaEgkAWd8b6gYGACEAWd8b6gYGACIUCY+AXCzqBgYAEAMZILAsvO01Fe4yGAoWCAIRKUJ7LOoGBgAYACEAAAAAAAAAACAAkgHCAwr4AgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJPpd7LOoGBgARPpd7LOoGBgAiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmOgFws6gYGABADGTMwNZY/qq7pIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEp7+h7LOoGBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkA7pkm6gYGABEA7pkm6gYGACkGk3ss6gYGADCA3Oe0ot2BA7oBAggBEgAgASoYVEVkai9vSWF2WVJuRW14UTlqc0lFQT09EuwBCBUS5wEKHENmTWU3d2o0L3piS0hCMVFubDlxZ29LNkJTOD0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQkNMVmdJQUxrdGU1UFppZUF1OFJWZGprYW5XYUlkREZ1TEU1c1NzU2RRbUl4S0lkVEhtUWE0YjhHcldBL1FGY25TQ3QrRHc9PRgAIAAoADCuvb+g68T+Ajjap/O/+zBA2qfzv/swShx1R0J1U1pEZHllQ2luUndsRXBITDB0WHREdWc9Wh8iHbJRU1JrV2V5TzZCWkMzMmZvSmg3dlVSd0s4TFU9ZQAAAAAS6wEIFBLmAQocZS9yaHk4OUYySVVDRlhaK25abjhTZGROZTN3PRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCbG9scWtrWVgrYmxDZ0lJMzd2S01zR2wxekllSUZiSHUwaUlHWnZBYXUxa2lFSnpJM1ZPV2dvUW9WSEt6VUs1UUVLemRjdz09GAAgACgAMJmI/qnSxP4COKSc2rz7MECknNq8+zBKHDVYd3U5bzlCWks4eUNHbDVBamNTZVhOaXBBdz1aHiIcZE5iSzRHb2tiZDRCNzVqcG1kNGlPNzllOHAwPWXwUdXMEuwBCBAS5wEKHCs1LzM3NnJmOVM4bU5pWTArY3d0WlVycEZtaz0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQmgyMDI5OElwYnhrS0pLck9QVDNSUUpFZk9taXdkQnY1UkJMZFZwWGM5WEhSUkVHM1U5NkFCVE5YSGF6bkx4eTZtVHVER2c9PRgAIAAoADD5taqB0sT+Ajijhta8+zBAo4bWvPswShx2Ukp2TUIxRDZlNy96SGFpWndsOGVsYXdVZ289Wh8iHf9jVkRuMGFDTWQ5VTA3MTN6MVVIQzdBODZWZDQ9ZQAAAAAS7AEIDxLnAQocb2Q2Qm1KVHcxWFNKcUFYZGRNRStnL3RKaFU0PRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCdzd3WWhONysvUTkzd3o0aWdBVTkxazVlZnpSZEFocnRVRTF0YjByWExoUjBlMGJGSklGN2dVeVR3ZVJSRkdCM2JpbWNNZz09GAAgACgAMJWa743wp4EDOI2S7PioMUCNkuz4qDFKHERyREs5Uy96UmVhQXkzRFo5dE53b2xTa2dCQT1aHyId/zlnUC9ET1Uxb0Excng2TGJGclFXbzc5VDlWcz1lBuf2GxLsAQgOEucBChxROUNhY0tiOUc2NGduNjJPTWllMSt6NmJlY0U9EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkJSSm5hbm5BMy9HQ2FkdjRXNnFoQnphYnkxYm8rNC9zVmNGay81cEwyWndFVlZ2cHRjalpxb0dZS1BEMUtmR3hhbnJPRUpBPT0YACAAKAAw8LPDm9yJgAM4mOe5/5MxQJjnuf+TMUocemJPWnlFbWtHWmNRN2dNQ3AzdTlhUDZZU2E0PVofIh3+OW52QU1KU2U5aE1kTjFDYXdWTDVCV0dINmU0PWXUTOjQEuwBCA0S5wEKHG5OZjQyZWZvM1hldHE2UlRKTnlHVUlUQTU4Yz0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQklvZTVRQnZWK3h6eDdLNnBEOWpGcDNxRlNBTURwdmJsZ0dvbG9lUDg5QUgzaU1FbGxlZDlxM3h0eEUxbjg1Tjh3S3JUS3c9PRgAIAAoADDCn66Z3ImAAzi/lZSU4DBAv5WUlOAwShx0Z0V4d21TTDZsZXVaS0didktTRmc5amFSSVk9Wh8iHf12M0RiTllLUlV3TE56dTM0ZWJDcXpsZWhHZHM9ZdRM6NASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6a1pWSXl5eUdZM1VQb1pwWWRLRHgzM2xJR3BOQ3BDWHZJaFZpaDJSeEowR2pRSnQ3NU5LL1Y1NkNWcGRLRTlDMjdYbDVsWEtMbU16b29UOGlrdUtBSEcxWWlSdz09GAAgACgAMI6B8uKi3YEDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5M2g4Vit6elNQWXNRSjdQclZtNXJXT3VZNFovMTdkQ1kyQ0xMNExUQmJXRm9wZE5GblhBN2FQMVJPQ3o2MmY1anRsOUtmGAAgACgAMI6B8uKi3YEDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEICxLnAQocWTNjaTY3blFyRy83anBJcGFSZU93RDQzdFk4PRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCOGFqTm5WVktvUmY1dk9ieEhzUjgrSXdTR2JBZTlwVHpOVlFnUk9QcDVpWEU4YVFMVVd1OG5Ia2RuREsyMk10RllqUno4UT09GAAgACgAMLaw7PW/gf8CON3546GDMUDd+eOhgzFKHHhML1ZEZ2lsR29JdFpqY3REVU5PNjF2V1hsQT1aHyId90xOL0RFK1JTTjB3OUd3Rk1DTEo2NVQxTjQrWT1l+pHe2xLsAQgXEucBChx0QVljSEFCMGQ1RzlqdlFGUU42UVlyRVNhT0E9EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkJPeGs0U280ZmVHeG5XVkVjY2RISFhyWENaRFh1cEZObkU3WHlNL1NEVDRjSHdHT29uemw1REVnVDZpYkREaDJveSttUXdBPT0YACAAKAAwwp+umdyJgAM4xYvjn/AwQMWL45/wMEoceTVtNWk0KzBKL3BRa1FQS1VQd21nVjVsWEE4PVofIh3sT1lPR3ZEb0ZCeGpaNXcrSjVUZXA3ZkdlUWtjPWU6ujA/EuwBCAkS5wEKHE9uZ1BrQWVFV1JkRWhFcEdFODJMYU1yc3FHRT0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQkxzTEViVU5wS1RSejU4Yi9kNkpkcllyNlFxWjBTTlJUc2pwb0paN2ZKSUt4ckMyZm9ZZEtNbjdRSnVRTXhBb2g5K0hMcWc9PRgAIAAoADC57pru0cT+AjiEs87V7jBAhLPO1e4wShxwcEtEcEJkNVB6ZGpGT3lub0xicWZ0ZFJmNTQ9Wh8iHd11V3lVc2pIUTNjdFgyanpZZTVCcytPV3dyYjQ9ZYHbF28S7AEICBLnAQocaGhMYkQ1T1hHSWZCQlJWbXdzRU9xRTFXOUhnPRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCaFI2WUhWekoxajZ1azc4NzdmbnV1OTRsSm5LSEIvQTBmM0ZqR0V2Nk56WmduYXdsMUk1SDV1cU5VS2VaRitZR3kvSjRGUT09GAAgACgAMLnumu7RxP4COM3iz9XuMEDN4s/V7jBKHDZsbzhpWHFmUmJkbHNRMjhLVXpLMXptVG9rRT1aHyIdum1OT085S0Z4WUN4akFZdkNPdUNQZ2NYUzUrMD1l3/AcvBLsAQgKEucBChw5V2FERW53ZGJ0dnZIQm84bnF1WDBrTEV4YlE9EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkJqMU1yc3cwUWlNYmQrT1dMa2oxZkJWVE1zZ3hPTVFzZm1USytObW1aWWIvTTFlTVFhQ0J3SHRnY3BMenBHc1BlQklvY3JRPT0YACAAKAAwieeekKvZ/gI4q/zgj/4wQKv84I/+MEocd1B2NGtPS2Ntak1CRjF2U2RhV1djMFV6RWtRPVofIh3uYndMYjBNYWZpb0NLZENtSUtiSEN6UXl6ck5rPWUvjVQYEuwBCBMS5wEKHE05RjFQMUpkZmZseUhKaEE5VjI0b2dMcU53MD0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQmRtREVXY3pWT2xVckhEeHpJZ3ROUVIrcjd0RWRUNGtYdGtNRXh3U2tTeklBU0ZBbU8rWUU2ellxR0RxNDJWYVNIT0lGU0E9PRgAIAAoADDeibyo0sT+Aji6h9u8+zBAuofbvPswShxVc0lrZW8rYWJNQkpZSktWSXZEL2pwRnl1Um89Wh8iHf95dU9MZlRtN3BtMkR1U3NMMk9yWjJyN3ZWOEk9ZQAAAAAS7AEIBRLnAQocQkgrdmE4VXpMQk1haHpmNzBPejlhWFZMV3BjPRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCV0F1NjVpc0xaNGVYenRMd2NBYTg5LytxNGpINEZWMFVUQ1EveHhBTkttMlArZGl4MW5TU2RnYm9IbjAzREx3NTcwazRmdz09GAAgACgAMJ2y2unRxP4COOCB07z7MEDggdO8+zBKHGNQbWtlY0tCSVJCUU0xRmN3MmpabHBIVGdnVT1aHyId/2NRd0ZzSFpzZHI2enNCVHdjQi90dE9udGo3az1lAAAAABLrAQgREuYBChxSajUyWkdBMnVOOW81dDk1aGd5c2xmNWFwOU09EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkJPUVYzYzZvdmpSN096NkVnSjhPWHovaXl4S2p2aXhQVVhQVjhhWlNHQTBEeHBjbHpHSVAzTnBOdjBNV0kzV3pyem8zbGZRPT0YACAAKAAw6bWIg9LE/gI4xNKfv+EwQMTSn7/hMEocZEFveUZ5T25IZ1VreFBsSVkvNjU5VTZNM1FjPVoeIhxpUTlOM2s1VjNLenJINkJjTU9vQ2c2alJhNzg9ZaBm2+gS7AEIDBLnAQocSnYzb0dMR3dCRHdnQnhBNkFyVE1iUW5GeklJPRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCR0ZoVG5yOEFZcUl6cGVkQURsbm9ta0tnbmx5T1ZVL3IxOE5JMDVjL280dEJFNnc0K1U3TU9zRkE4Zm4zdHg1OEl3dCt6UT09GAAgACgAMNf7pcXmv/8COMrRtJ6LMUDK0bSeizFKHEN6c28xNjlXVGFPRDRrSjJFM3hEQkFTMXdlTT1aHyId+0pFa2dRdjVjSmRZZjExTktTa3lYSEhGYkJ5OD1lEDD/5BLrAQgHEuYBChxITlZkSmFkaEc3U1RFRHR1VWc1L3liRW5adW89EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkJjWVhBQlAvWUhpRlBPTFo3dVl0SjlzZzBkVzhTU3JJTzd6T0ZURkJNVmo1S01IbFFLNTgvWnBZNmxpQVAweDltQ3EvQXJRPT0YACAAKAAwlrSC7NHE/gI44uzW+e4wQOLs1vnuMEocSHV1ZXBZSDVpaHJCK3plL2lKUXZQb09aNmVZPVoeIhx1aUlYNSt1Z2gyOWM3QjV6SkEvR3lyc3RXZk09ZTtKcrgSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5RjNjUmNrS3pFcnNXL0hFbkwvU0VCb0NNS0tvMlRxc1NDTUVoeGZOaXMyZThpL0pkYXZqamlKaXFlV21kSUJ0b0hzMzBGaFBSSldXY0JVQmtqYitwdVp6ZFVUdz09GAAgACgAMI6B8uKi3YEDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIFhLnAQocZWJOYXMzR2ZpNVhPZXgwK2t4elNrOXEvNjhFPRJmWjpBRHF0QVp4SVdxMzhrQmRWTVV0Rm1wWjk1QlpCMDg1UHJTNEVQSGNFZVBkN040eEEwQTZENk93UEJRc3d5dHdjT2hBRkxpSVByeXQwNksycDNQRmU2ZVA1a21zNTUrV0RLdz09GAAgACgAMNChxuvjyf4COMf475D8MEDH+O+Q/DBKHExUWjd1MjBCUEltbnNSTU1Qcm9paUZaMFFJdz1aHyId2XJXS0VvczVMTlBXVmlNR1BWS2R6ci9LdlB2ST1liM4alBLsAQgSEucBChxDN01EdE11ZHplUzFJRXE1WURPTUE3d005ekk9EmZaOkFEcXRBWnhJV3EzOGtCZFZNVXRGbXBaOTVCWkIzTXNvdVlkQ0FJZHc2cEpvd25CeGVHRFZkV2NvRkpyYjNORmZmUHZhQVEvT0FRbThCNnprNDAyS0ZnaGZvWDRCcWI0Y2dBPT0YACAAKAAwhp2VkdLE/gI46YnYvPswQOmJ2Lz7MEocR3EzOUcwQXdwS21SbFA1aGFENHVndmd5OEgwPVofIh20OGhkRk81YmpQeUQ3alg3dWN5Rml0YnZGYVJNPWUcJXF3EusBCAYS5gEKHFhSZ3FQKytQU0wySDNvRUNuODZ4RklWOVpXWT0SZlo6QURxdEFaeElXcTM4a0JkVk1VdEZtcFo5NUJaQlRrWE01aklDSVp1UEd5T3J1YkUra1MrM2RxYmFmYjhPQk9JNWpxSlpvN25VczF4UzdZWTRVd1ZHNVg4R0dnWXBIWlhWMEE9PRgAIAAoADCWtILs0cT+Ajjb+o/M8DBA2/qPzPAwShxrNmRUM2VwVmFQN3QrVzNEWE85ODRMbTAxa2c9Wh4iHHNxWlcxU2JqSDZZU3I0OXlzUk10WUpyL0NCST1lO0pyuDABOAA=",
+   "version": 1
+}

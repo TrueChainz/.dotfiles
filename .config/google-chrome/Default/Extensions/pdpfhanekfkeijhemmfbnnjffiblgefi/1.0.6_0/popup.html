@@ -1,0 +1,60 @@
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="icons/32.png" />
+  <link rel="stylesheet" href="./styles/popup.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles/vanilla-picker.csp.css" />
+  <title>Dark Mode for Chrome</title>
+</head>
+
+<body>
+  <div class="drk-th_logo_wrapper">
+    <img src="icons/logo.svg" />
+    <h1 class="alignCenter">Dark Theme</h1>
+  </div>
+  <div class="items-wrapper">
+    <div class="items-wrapper__item">
+      <img src="icons/book-icon.svg">
+      <h3>Reading mode</h3>
+    </div>
+    <label class="checkBox">
+      <input type="checkbox" id="readMode" />
+      <span class="checkmark circle"></span>
+    </label>
+  </div>
+  <div class="items-wrapper">
+    <div class="items-wrapper__item">
+      <img src="icons/moon-icon.svg">
+      <h3>Dark Mode</h3>
+    </div>
+    <label class="checkBox">
+      <input type="checkbox" id="darkMode" />
+      <span class="checkmark circle"></span>
+    </label>
+  </div>
+  <div class="items-wrapper">
+    <div class="items-wrapper__item">
+      <img src="icons/star-icon.svg">
+      <h3>Custom color</h3>
+    </div>
+    <div class="drk-th_color_picker_wrapper">
+      <button id="drk-th_color_picker">
+      </button>
+      <span id="drk-th_closeBtn">x</span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="drk-th_rate_us_logo"></span>
+    <div id="rateUsLink">Rate App</div>
+  </div>
+  <script src="scripts/vanilla-picker.csp.min.js"></script>
+  <script src="scripts/pp.js"></script>
+</body>
+
+</html>

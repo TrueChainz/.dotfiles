@@ -1,0 +1,21 @@
+2023/10/05-16:45:31.470 1bb99 Reusing MANIFEST /home/truechainz/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/10/05-16:45:31.470 1bb99 Recovering log #26
+2023/10/05-16:45:31.471 1bb99 Reusing old log /home/truechainz/.config/google-chrome/Default/Sync Data/LevelDB/000026.log 
+2023/10/07-11:48:04.152 1bb88 Level-0 table #30: started
+2023/10/07-11:48:04.160 1bb88 Level-0 table #30: 109113 bytes OK
+2023/10/07-11:48:04.162 1bb88 Delete type=0 #26
+2023/10/08-01:03:29.957 1bb88 Level-0 table #32: started
+2023/10/08-01:03:29.963 1bb88 Level-0 table #32: 104974 bytes OK
+2023/10/08-01:03:29.965 1bb88 Delete type=0 #29
+2023/10/08-01:03:29.965 1bb88 Compacting 4@0 + 1@1 files
+2023/10/08-01:03:29.980 1bb88 Generated table #33@0: 630 keys, 113162 bytes
+2023/10/08-01:03:29.980 1bb88 Compacted 4@0 + 1@1 files => 113162 bytes
+2023/10/08-01:03:29.982 1bb88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/08-01:03:29.983 1bb88 Delete type=2 #21
+2023/10/08-01:03:29.983 1bb88 Delete type=2 #24
+2023/10/08-01:03:29.983 1bb88 Delete type=2 #27
+2023/10/08-01:03:29.983 1bb88 Delete type=2 #30
+2023/10/08-01:03:29.983 1bb88 Delete type=2 #32
+2023/10/08-13:19:24.700 1bb88 Level-0 table #35: started
+2023/10/08-13:19:24.702 1bb88 Level-0 table #35: 118259 bytes OK
+2023/10/08-13:19:24.704 1bb88 Delete type=0 #31
