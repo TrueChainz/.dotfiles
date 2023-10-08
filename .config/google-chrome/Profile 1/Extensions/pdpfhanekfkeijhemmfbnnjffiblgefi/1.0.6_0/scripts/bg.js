@@ -1,1 +1,0 @@
-chrome.runtime.onInstalled.addListener((function(t){"install"==t.reason&&chrome.tabs.create({url:"https://darktmode.org/api/install"})})),chrome.runtime.setUninstallURL("https://darktmode.org/uninstall/");

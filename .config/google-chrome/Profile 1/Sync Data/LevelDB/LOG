@@ -1,6 +1,0 @@
-2023/10/05-16:45:31.422 1bb97 Reusing MANIFEST /home/truechainz/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
-2023/10/05-16:45:31.423 1bb97 Recovering log #12
-2023/10/05-16:45:31.423 1bb97 Reusing old log /home/truechainz/.config/google-chrome/Profile 1/Sync Data/LevelDB/000012.log 
-2023/10/07-13:09:03.757 1bb96 Level-0 table #16: started
-2023/10/07-13:09:03.764 1bb96 Level-0 table #16: 113676 bytes OK
-2023/10/07-13:09:03.767 1bb96 Delete type=0 #12

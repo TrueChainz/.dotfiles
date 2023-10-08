@@ -1,7 +1,0 @@
-2023/10/05-13:11:42.622 130a3 Reusing MANIFEST /home/truechainz/.config/google-chrome/Profile 1/IndexedDB/https_app.requestly.io_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/05-13:11:42.622 130a3 Recovering log #4
-2023/10/05-13:11:42.623 130a3 Reusing old log /home/truechainz/.config/google-chrome/Profile 1/IndexedDB/https_app.requestly.io_0.indexeddb.leveldb/000004.log 
-2023/10/05-13:11:42.859 130a3 Level-0 table #8: started
-2023/10/05-13:11:42.861 130a3 Level-0 table #8: 18771 bytes OK
-2023/10/05-13:11:42.862 130a3 Delete type=0 #4
-2023/10/05-13:11:42.862 130a0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
