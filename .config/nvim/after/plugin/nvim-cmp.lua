@@ -2,7 +2,6 @@
 -- See `:help cmp`
 local ok_cmp, cmp = pcall(require, 'cmp')
 local ok_luasnip, luasnip = pcall(require, 'luasnip')
-
 if ok_cmp and ok_luasnip then
   require('luasnip.loaders.from_vscode').lazy_load()
   luasnip.config.setup {}
