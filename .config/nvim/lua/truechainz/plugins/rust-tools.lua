@@ -179,3 +179,4 @@ if ok then
 else 
 	print("rust-tools does not exist")
 end
+return {}

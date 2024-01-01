@@ -3,6 +3,10 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 vim.keymap.set("n", "<leader>pv", "<cmd>Ex!<CR>", { desc = "[P]roject [V]iew" })
 
+vim.keymap.set("n", "<leader>gg", vim.cmd.Git, { desc = "Open [G]it" })
+vim.keymap.set("n", "<leader>gp", "<cmd>Git push<CR>", { desc = "[G]it [P]ush" })
+vim.keymap.set("n", "<leader>gP", "<cmd>Git pull<CR>", { desc = "[G]it [P]ull" })
+
 vim.keymap.set("n", "<C-d>", "<C-d>zz")
 vim.keymap.set("n", "<C-u>", "<C-u>zz")
 
@@ -37,7 +41,7 @@ vim.keymap.set("n", "<leader>rk", "<cmd>lnext<CR>zz", { desc = "[R]esults Next" 
 vim.keymap.set("n", "<leader>rj", "<cmd>lprev<CR>zz", { desc = "[R]esults Prev" })
 
 
-vim.keymap.set("n", "<leader>vl", "<cmd>e ~/.dotfiles/.config/nvim/lua/truechainz/lazy.lua<CR>",
+vim.keymap.set("n", "<leader>vl", "<cmd>e ~/.dotfiles/.config/nvim/lua/truechainz/plugins/init.lua<CR>",
   { desc = "[V]im [L]azy" })
 vim.keymap.set("n", "<leader>vr", "<cmd>e ~/.dotfiles/.config/nvim/lua/truechainz/remap.lua<CR>",
   { desc = "[V]im [R]emaps" })

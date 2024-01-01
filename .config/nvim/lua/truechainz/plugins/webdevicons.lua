@@ -47,3 +47,4 @@ if ok then
 else 
 	print("nvim-web-devicons does not exist")
 end
+return {}
